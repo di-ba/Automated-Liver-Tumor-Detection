@@ -250,7 +250,7 @@ imshow(img_out);
 
 handles.ImgLiver = img_out;
 
-BW_groundTruth= imread('G:\prj arshad\rajabi-15-2\code\LiverCAD\Images\Malignant\i_57b.jpg');
+BW_groundTruth= imread('Images\Malignant\i_57b.jpg');
 % gt=BW_groundTruth(:);
 % segm=BW_Created(:);
 BW_groundTruth = logical(BW_groundTruth);
