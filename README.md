@@ -2,6 +2,9 @@
 
 In this project, a computer-aided diagnosis (CAD) system  is provided for Abdominal CT Liver Images.
 
+![CAD](https://user-images.githubusercontent.com/87225043/125982778-575de50a-bf4c-4d4c-b545-b4c17ab40b07.png)
+
+
 This implementation comprises of four main phases: 
 * liver segmentation
 * lesion candidate segmentation
